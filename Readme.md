@@ -1,6 +1,6 @@
 # Healthcare Data Mining Project FALL 2023 (Group-11 Project-2)   
 
-Each folder within the "code" directory, such as "Application," "Metamap," "SympGraph," and "scraper," will contain its respective README file providing instructions for implementation and execution.
+Each folder within the "Code" directory, such as "Application," "Metamap," "SympGraph," and "scraper," will contain its respective README file providing instructions for implementation and execution.
 
 The "Visualization" folder houses output generated from SympGraph and user survey results.
 
