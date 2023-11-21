@@ -11,6 +11,7 @@ This Python-based web scraper is designed to extract valuable content from healt
 The purpose of this tool is to gather information from these healthcare discussion forums, enabling the extraction of relevant data for analysis.
 
 **#Installation**
+
 Before using the scraper, make sure you have the following installed:
 
 Python version 3.8 or higher
