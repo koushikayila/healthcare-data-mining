@@ -1,13 +1,18 @@
-Introduction
+**Introduction**
+
 The MetaMap Annotator is a Java-based application designed to annotate web data using the MetaMap annotator Java API. It efficiently processes data scraped from various sources and prepares it for further analysis. This guide will walk you through the setup and usage of the MetaMap Annotator.
 
-Prerequisites
+**Prerequisites**
+
 Java JDK
 Internet Connection for downloading necessary files
+
 Installation
+
 Step 1: Download Required Software
 Download the MetaMap main release from MetaMap Main Download.
 Download the MetaMap Java API from MetaMap Java API Download.
+
 Step 2: Setup MetaMap
 Extract both downloads.
 Merge the public_mm folder from the Java API into the public_mm folder of the main release. Ignore duplicate files during the merge.
@@ -17,6 +22,7 @@ cd public_mm/
 ./bin/install.sh
 
 Verify the successful installation by checking the install.log for the creation of mmserver.
+
 Step 3: Start Servers
 Start the WSD, MedPost, and MM servers in the following order:
 
@@ -31,7 +37,8 @@ Launch the application:
 
 java -jar dist/MetaMapAnnotator.jar
 
-Usage
+**Usage**
+
 The application automatically processes CSV files located in the neighboring scraper/data folder.
 Ensure that the files do not reside in subfolders.
 The annotated output will be written to the resources folder within the MetaMapAnnotator directory.
