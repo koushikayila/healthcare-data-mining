@@ -1,5 +1,5 @@
 
-**#Scraper**
+# Scraper
 
 This Python-based web scraper is designed to extract valuable content from healthcare discussion forums. The scraper currently supports scraping the following websites:
 
@@ -10,7 +10,7 @@ This Python-based web scraper is designed to extract valuable content from healt
 
 The purpose of this tool is to gather information from these healthcare discussion forums, enabling the extraction of relevant data for analysis.
 
-**#Installation**
+## Installation
 
 Before using the scraper, make sure you have the following installed:
 
@@ -19,7 +19,7 @@ Scrapy library
 
 You can install Scrapy using the following command: pip install scrapy
 
-**#Using scraper**
+## Using scraper
 
 1. Clone the repository to your local machine.
 2. Navigate to the scraper directory.
